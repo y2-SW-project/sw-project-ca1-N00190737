@@ -10,9 +10,19 @@
     <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             
-            <a class="navbar-brand mx-auto" href="#">Community Name</a>
-            <i class="bi bi-person-fill "></i>
+            <a class="navbar-brand mx-auto fs-5" href="#">Community Name</a>
+            <i class="fs-1 bi bi-person-fill">Account</i>
         </nav>
+        <div class="container">
+        <div class="row">
+            <div class="col-12 primary">
+                <div class="col-2">
+                    <img src="assets/imgs/image1" alt="">
+                </div>
+
+            </div>
+        </div>
+        </div>
      </div>
 </body>
 
